@@ -1,4 +1,4 @@
-package com.example.hello_plugin
+package com.example.hello
 
 import org.gradle.api.Plugin
 import org.gradle.api.Project
