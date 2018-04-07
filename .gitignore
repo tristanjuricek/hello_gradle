@@ -1,0 +1,11 @@
+# I understand that some project files can be included, but this can reference
+# JDKs that may not be available.
+.idea/
+*.iml
+
+.gradle/
+
+build/
+
+# Where did this come from
+buildSrc/out/
